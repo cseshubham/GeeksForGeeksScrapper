@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from article import Article
 
 
-BASE_URL = 'http://www.geeksforgeeks.org/'
+BASE_URL = 'http://www.geeksforgeeks.org/c-language-2-gq/'
 articles = []
 
 CHOICE_TO_CATEGORY_MAPPING = {
